@@ -1,0 +1,10 @@
+push 10
+push 20
+add
+push 40
+sub
+push 5
+mul
+push 100
+div
+exit
